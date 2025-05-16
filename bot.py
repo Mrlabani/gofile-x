@@ -13,7 +13,7 @@ from telegram.ext import (
 )
 
 # Bot token from @BotFather
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7565594863:AAE256g-w4WjyfLoSVa9H8iN4RZIQIP-pIo)
 
 # Logging
 logging.basicConfig(level=logging.INFO)
